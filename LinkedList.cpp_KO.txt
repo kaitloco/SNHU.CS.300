@@ -1,0 +1,10 @@
+﻿Build started at 11:24 PM...
+1>------ Build started: Project: CS300 Mod 3, Configuration: Debug x64 ------
+1>LinkedList.cpp
+1>C:\Users\PhoenixKiller\OneDrive - SNHU\CS-300\LinkedList.cpp(151,18): error C2601: 'LinkedList::PrintList': local function definitions are illegal
+1>    C:\Users\PhoenixKiller\OneDrive - SNHU\CS-300\LinkedList.cpp(133,35):
+1>    this line contains a '{' which has not yet been matched
+1>C:\Users\PhoenixKiller\OneDrive - SNHU\CS-300\LinkedList.cpp(173,39): error C1075: '{': no matching token found
+1>Done building project "CS300 Mod 3.vcxproj" -- FAILED.
+========== Build: 0 succeeded, 1 failed, 0 up-to-date, 0 skipped ==========
+========== Build completed at 11:24 PM and took 01.577 seconds ==========
